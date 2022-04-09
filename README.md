@@ -1,4 +1,4 @@
-# Project-3rd-With-Spring
+# Idea
 
 ## 1. 전국 야영장 소개 웹
 [전국 야영장 API](https://www.data.go.kr/data/15021139/openapi.do)  
@@ -11,4 +11,8 @@
 
 ## 4. 노인을 위한 동선 제공 웹
 
-## 5. 코로나 통계 웹
+## 5. 코로나 통계 웹 + 커뮤니티
+
+# Skills
+- Spring Boot
+- React
