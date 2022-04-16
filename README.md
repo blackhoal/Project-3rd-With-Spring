@@ -16,3 +16,7 @@
 # Skills
 - Spring Boot
 - React
+- AWS
+  - EC2
+  - RDS
+- Travis CI
