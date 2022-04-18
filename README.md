@@ -6,14 +6,14 @@
 # 3. 인원
 
 # 4. 기술 스택
-
-# 5. 기능 구현 및 기능별 동작
 - Spring Boot
 - React
 - AWS
   - EC2
   - RDS
 - Travis CI
+
+# 5. 기능 구현 및 기능별 동작
 
 # 6. Issue
 
